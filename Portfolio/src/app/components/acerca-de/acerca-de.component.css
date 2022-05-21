@@ -4,7 +4,7 @@
 }
 
 div {
-    background-color: aquamarine;
+    background-color:#358aff;
     text-align: center;
 
 }
@@ -35,6 +35,6 @@ div {
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 750px;
+        top: 1000px;
     }
 }
