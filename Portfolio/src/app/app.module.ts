@@ -7,6 +7,7 @@ import { NavBarComponent } from './components/nav-bar/nav-bar.component';
 import { LogoAPComponent } from './components/logo-ap/logo-ap.component';
 import { RedesComponent } from './components/redes/redes.component';
 import { BannerComponent } from './components/banner/banner.component';
+import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 
 
 
@@ -17,6 +18,7 @@ import { BannerComponent } from './components/banner/banner.component';
     LogoAPComponent,
     RedesComponent,
     BannerComponent,
+    AcercaDeComponent,
 
   ],
   imports: [
