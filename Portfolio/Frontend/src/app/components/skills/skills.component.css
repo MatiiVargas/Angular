@@ -1,5 +1,12 @@
 .row {
+    padding: 20px;
+
+}
+
+div {
     background-color: #358aff;
-    padding: 20 px;
-    
+}
+
+h1 {
+    display: inline; 
 }

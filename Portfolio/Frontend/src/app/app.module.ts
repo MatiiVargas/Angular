@@ -15,6 +15,7 @@ import { SkillsComponent } from './components/skills/skills.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { IdiomasComponent } from './components/idiomas/idiomas.component';
 
 
 
@@ -30,6 +31,7 @@ import { FooterComponent } from './components/footer/footer.component';
     SkillsComponent,
     ProyectosComponent,
     FooterComponent,
+    IdiomasComponent,
 
   ],
   imports: [
