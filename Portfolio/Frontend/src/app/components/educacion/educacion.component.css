@@ -5,8 +5,14 @@
 
 div {
     background-color: #358aff;
+    font-family: 'Tiro Bangla', serif;
 }
 
 h1, h3 {
     display: inline;
+    font-family: 'Pinyon Script', cursive;
+}
+
+h1 {
+    color: #ff7e57;
 }

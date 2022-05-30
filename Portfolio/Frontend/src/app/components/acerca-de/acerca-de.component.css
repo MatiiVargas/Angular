@@ -6,7 +6,13 @@
 div {
     background-color:#358aff;
     text-align: center;
+    font-family: 'Tiro Bangla', serif;
 
+}
+
+h1 {
+    font-family: 'Pinyon Script', cursive;
+    color: #ff7e57;
 }
 
 /*Etiqueta Nombre*/

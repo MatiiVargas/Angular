@@ -9,4 +9,6 @@ div {
 
 h1 {
     display: inline; 
+    font-family: 'Pinyon Script', cursive;
+    color: #ff7e57;
 }
